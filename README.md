@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kdhitchcock23
+- 👋 Hi, I’m @Kyanna Hitchcock
 - 👀 I’m interested in learning new hobbies
 - 🌱 I’m currently learning how to draw realistic
 - 💞️ I’m looking to collaborate on creative art projects
