@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love to try new restaurants 
 
 <ul>
-<li><a href="introduction_to_makeup/index.html" target="_blank">intro to Makeup</a></li>
-<li<a href="html5_intro_css/index.html" target="_blank">HTML5 and Intro CSS</a></li>
+<li><ahref="introduction_to_makeup/index.html" target="_blank">intro to Makeup</a></li>
+<li<ahref="html5_intro_css/index.html" target="_blank">HTML5 and Intro CSS</a></li>
 </ul>
 
 <!---
