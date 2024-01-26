@@ -7,9 +7,10 @@
 - ⚡ Fun fact: I love to try new restaurants 
 
 <ul>
-<link><a href="intro_to_html/index.html" target="_blank">intro to HTML</a></link>
-<link><a href="html5_intro_css/index.html" target="_blank">HTML5 and Intro CSS</a></link>
+<li><a href="introduction_to_makeup/index.html" target="_blank">intro to Makeup</a></li>
+<li<a href="html5_intro_css/index.html" target="_blank">HTML5 and Intro CSS</a></li>
 </ul>
+
 <!---
 Kdhitchcock23/Kdhitchcock23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
