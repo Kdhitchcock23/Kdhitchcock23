@@ -6,6 +6,10 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to try new restaurants 
 
+<ul>
+<link><a href="intro_to_html/index.html" target="_blank">intro to HTML</a></link>
+<link><a href="html5_to_css/index.html" target="_blank">HTML5 and Intro to CSS</a></link>
+</ul>
 <!---
 Kdhitchcock23/Kdhitchcock23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
