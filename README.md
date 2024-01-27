@@ -8,7 +8,6 @@
 
 <ul>
 <li><a href="intro_html_css/index.html" target="_blank">intro to html and CSS</a></li>
-<li><a href="intro_to_html_/index.html" target="_blank">intro to html</a></li>
 
 <li><a href="intro_to_html/index.html" target="_blank">Intro to html</a></li>
 </ul>
