@@ -7,8 +7,8 @@
 - ⚡ Fun fact: I love to try new restaurants 
 
 <ul>
-<li><a href="intro_html_css/index.html" target="_blank">intro to HTML and CSS</a></li>
-<li<a href="html5_intro_css/index.html" target="_blank">HTML5 and Intro CSS</a></li>
+<li><a href="intro_html_css/index.html" target="_blank">intro to html and CSS</a></li>
+<li<a href="intro_to_html/index.html" target="_blank">Intro to html</a></li>
 </ul>
 
 <!---
