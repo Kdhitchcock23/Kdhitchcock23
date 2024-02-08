@@ -1,0 +1,143 @@
+/* Global Styles */
+body {
+    background-color: #D8572A;
+
+}
+
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+a {
+    color: #E1DECB;
+}
+
+a:hover {
+    color: #E1DECB;
+    text-decoration: none;
+}
+
+#container {
+    background-color:#BF944A;
+    width: 65%;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+h1, h2, h3, h4 {
+   color: #2C0E37;
+   font-family: fantasy;
+   font: size 10px;
+
+}
+
+body {
+    font-family: monospace;
+    font-size: 15px;
+    color: #2C0E37;
+}
+
+
+
+*/ Desktop Styles */
+
+nav {
+    background-color: #690375; 
+    padding: 30px 0;
+    padding-left: 20px;
+    text-align: right;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    color: #2C0E37 ;
+    margin-right: 20px;
+    text-decoration: none;
+    font-size: 10px;
+    font-weight: bold;
+}
+nav li a:hover {
+    color:#CB429F;
+}
+
+header h1 {
+    font-size: 35px;
+    color: #6A041D;
+    text-shadow: 2px 2px 2;
+    font-family: fantasy;
+}
+
+main {
+    padding: 30px 0;
+}
+
+main img {
+    width: 40%;
+}
+
+#lower {
+    display: flex;
+}
+
+.col {
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #592941;
+    width: 33.3%;
+    border-radius: 20px;
+}
+
+.col img {
+    border: 4px solid #592941;
+}
+
+footer {
+    padding:40px 0;
+    text-align: center;
+}
+
+hr {
+    width: 75%;
+}
+
+.button {
+    display: block;
+    background-color: #FE4A49 ;
+    width: 125x;
+    height: 30px;
+    color: #6A041D;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.button :hover {
+    color: #faa80e;
+}
+
+#xpacs {
+    display: flex;
+    font-family: fantasy;
+    margin: 10px;
+}
+
+#xpacs img {
+    width: 200px;
+    height: 200px;
+}
