@@ -1,0 +1,161 @@
+/* Global Styles */
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+body {
+    background-color:#F59B00 ;
+}
+
+#container {
+    background-color: #A7F5D4;
+    padding: 12px;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color:#000000 ;
+}
+
+
+a {
+    color: #000000;
+}
+
+a :hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+
+/* Mobile Styles */
+nav {
+    background-color:#DB151B;
+    padding: 8px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: block;
+    text-align: center;
+}
+
+
+nav li a {
+    display: line-block;
+    height: 40px;
+    line-height: 40px;
+    color: #1037E3;
+    background-color:#F59B00;
+    text-align: center;
+    margin:5px 0;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+nav li a:hover {
+    background-color: #F51000;
+}
+
+header h1 {
+    font-size: 35px;
+    color: #000000;
+}
+
+main {
+    border: 2px solid #F599D1;
+    padding: 30px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+#lower {
+    border: 2px solid #F599D1;
+    padding: 10px;
+}
+
+.col {
+    background-color: #47B6F5;
+    border: 2px solid #F599D1;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    padding: 50px 0;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: 10px auto;
+    text-align: center;
+    background-color: #F50031;
+    width: 55%;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    border: 2px solid #47B6F5;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.button:hover {
+color: #47B6F5;
+}
+
+@media (min-width: 786px) {
+    nav {
+        text-align: center;
+    }
+    
+    nav li {
+        display: inline-block;
+    }
+
+    nav li a {
+        width: 200%;
+    }
+
+    main img {
+        width: 40%
+    }
+}
+
+#lower {
+    width: 75%;
+    margin: 0 auto;
+}
+
+
+/* Desktop Styles */
+
+@media (min-width: 1024px) {
+    #container {
+        width: 65%;
+        margin: 20px auto;
+    }
+
+
+    #lower {
+        display: flex;
+        width: 95%;
+    }
+
+    .col {
+        width: 33.33%;
+    }
+
+    main img {
+        width: 20%;
+    }
+
+}
