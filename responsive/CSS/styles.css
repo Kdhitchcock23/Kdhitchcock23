@@ -48,7 +48,7 @@ nav li {
 
 
 nav li a {
-    display: inline-block;
+    display: block;
     height: 40px;
     line-height: 50px;
     color: #1037E3;
