@@ -33,7 +33,7 @@ a :hover {
 /* Mobile Styles */
 nav {
     background-color:#DB151B;
-    padding: 8px;
+    padding: 10px;
 }
 
 nav ul {
@@ -42,6 +42,7 @@ nav ul {
 }
 
 nav li {
+    display: block;
     text-align: center;
 }
 
@@ -49,7 +50,7 @@ nav li {
 nav li a {
     display: inline-block;
     height: 40px;
-    line-height: 40px;
+    line-height: 50px;
     color: #1037E3;
     background-color:#F59B00;
     text-align: center;
