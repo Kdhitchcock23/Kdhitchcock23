@@ -42,7 +42,6 @@ nav ul {
 }
 
 nav li {
-    display: block;
     text-align: center;
 }
 
@@ -54,7 +53,7 @@ nav li a {
     color: #1037E3;
     background-color:#F59B00;
     text-align: center;
-    margin:5px 0;
+    margin:10px 0;
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
