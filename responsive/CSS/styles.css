@@ -43,18 +43,17 @@ nav ul {
 
 nav li {
     display: block;
-    text-align: center;
 }
 
 
 nav li a {
     display: block;
     height: 40px;
-    line-height: 50px;
+    line-height: 40px;
     color: #1037E3;
     background-color:#F59B00;
     text-align: center;
-    margin:10px 0;
+    margin:5px 0;
     font-size: 20px;
     font-weight: bold;
     text-decoration: none;
@@ -118,11 +117,11 @@ color: #47B6F5;
     }
     
     nav li {
-        display: inline-block;
+        display: block;
     }
 
     nav li a {
-        width: 200%;
+        width: 100%;
     }
 
     main img {
